@@ -1,0 +1,11 @@
+este espacio es para que podemos aprender comandos basicos:
+
+1. Primer comando se encarga de poder configurar los elementos de la computadora con el repositorio 
+
+git config --global user.name "almaaldous"
+git config --global user.email "almaaldous@gmail.com"
+
+nota: estos comandos solo 
+
+ahora prar cargar los archivos del proyecto comando:
+git add .
